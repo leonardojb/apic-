@@ -1,0 +1,6 @@
+@api3teste_HostAddress = http://localhost:5115
+
+GET {{api3teste_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
